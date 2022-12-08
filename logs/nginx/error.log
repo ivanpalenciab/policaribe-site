@@ -1,0 +1,3 @@
+2022/12/04 16:35:45 [error] 1092#19784: *3888 upstream timed out (10060: FormatMessage() error:(15100)) while reading response header from upstream, client: 127.0.0.1, server: , request: "POST /wp-admin/admin-ajax.php HTTP/1.0", upstream: "fastcgi://127.0.0.1:10008", host: "policaribe.local", referrer: "http://policaribe.local/wp-admin/post.php?post=153&action=elementor"
+2022/12/07 20:22:14 [alert] 18828#18612: worker process 11304 exited with code C0000142
+2022/12/07 20:22:14 [alert] 18828#18612: could not respawn worker
